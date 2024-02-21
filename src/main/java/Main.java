@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Hello from remoteUser!");
 
         System.out.println("homeUser add some new content here.");
+
+        System.out.println("remoteUser add some new content here.");        
     }
 }
